@@ -3,6 +3,22 @@
 
 ---
 
+## Dashboard Preview
+
+### Cover Page
+![Cover Page](assets/cover.png)
+
+### Overview
+![Overview](assets/overview.png)
+
+### Regional Analysis
+![Regional Analysis](assets/regional-analysis.png)
+
+### Manager Analysis
+![Manager Analysis](assets/manager-analysis.png)
+
+---
+
 ## Overview
 
 This dashboard provides end-to-end visibility into a B2B sales pipeline — from opportunity creation through deal closure. Built as a portfolio project, it demonstrates FP&A-relevant analytical techniques including period-over-period comparisons, win/loss analysis, discount tracking, and dynamic visual storytelling.
