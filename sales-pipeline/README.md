@@ -116,4 +116,4 @@ README.md                 # This file
 
 Built by **Ahmed** as part of an FP&A-focused Power BI portfolio. This project demonstrates applied skills in data modeling, DAX measure development, and financial dashboard design — reflecting the analytical work done in a real FP&A analyst role.
 
-Connect on [LinkedIn]([#](https://www.linkedin.com/in/muhammad-ahmed-saeed-2183131b4/)) | View more projects on [GitHub]([#](https://github.com/Ahmed-Saeed-FPnA))
+Connect on [LinkedIn]((https://www.linkedin.com/in/muhammad-ahmed-saeed-2183131b4/)) | View more projects on [GitHub]((https://github.com/Ahmed-Saeed-FPnA))
